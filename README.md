@@ -7,6 +7,6 @@ All instructions and guidelines are clearly documented within the code as commen
 ## Sample Images
 
 
-| ![angel_sample_image](Sample_Images/angel_sample_image.jpg) | ![terminator_sample_image](Sample_Images/terminator_sample_image.jpg) | ![dog_sample_image](Sample_Images/dog_sample_image.jpg) |
+| ![angel_sample_image](Sample_Images/angel_sample_image.jpg) | ![terminator_sample_image](Sample_Images/terminator_sample_image.jpg) | ![dog_sample_image](Sample_Images/dog_sample_image.png) |
 |-------------------------|-------------------------|-------------------------|
 
